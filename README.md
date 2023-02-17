@@ -4,9 +4,9 @@
 
 ## I'm Pramod Suthar, a Full Stack Web Developer at [Creator.co](https://creator.co/). I spend most of my time learning new stuff and playing video games.
 
-- ### :computer: I’m currently working at Creator.co
-- ### 🤔 Always looking for new teammates in Valorant:facepunch: and Fifa⚽.
-- ### 📫 How to reach me: pramodsuthar@mail.com.
+- #### :computer: I’m currently working at Creator.co
+- #### 🤔 Always looking for new teammates in Valorant:facepunch: and Fifa⚽.
+- #### 📫 How to reach me: pramodsuthar@mail.com.
 
 ### :mailbox: Reach me out!
 
