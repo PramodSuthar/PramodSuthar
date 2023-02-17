@@ -36,3 +36,7 @@ I'm Pramod Suthar, a Full Stack Web Developer and Content Creator on [Creator.co
 
 <br />
 <br />
+
+#### Profile Visits
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=pramodsuthar.pramodsuthar&left_color=green&right_color=red)
