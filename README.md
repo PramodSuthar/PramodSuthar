@@ -37,7 +37,7 @@
 
 ### Profile Visits
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=PramodSuthar.PramodSuthar&left_color=green&right_color=blue)
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 
 ### Github Stats
 
