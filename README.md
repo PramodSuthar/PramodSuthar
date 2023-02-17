@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono&size=38&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=90&lines=Welcome+to+my+GitHub+Profile)](https://github.com/PramodSuthar/PramodSuthar)
 
-## Hey there, I'm Pramod <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hey">
+# Hey there, I'm Pramod <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hey">
 
 I'm Pramod Suthar, a Full Stack Web Developer at [Creator.co](https://creator.co/). I spend most of my time learning new stuff and playing video games.
 
