@@ -14,7 +14,7 @@ I'm Pramod Suthar, a Full Stack Web Developer at [Creator.co](https://creator.co
 - 🤔 I’m also looking for teammates in Valorant:facepunch: and Fifa⚽.
 - 📫 How to reach me: pramodsuthar@mail.com.
 
-#### Top Technologies
+### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
@@ -22,14 +22,14 @@ I'm Pramod Suthar, a Full Stack Web Developer at [Creator.co](https://creator.co
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-#### Developer Jokes, because why not?
+### Developer Jokes, because why not?
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
-#### Profile Visits
+### Profile Visits
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=PramodSuthar.PramodSuthar&left_color=green&right_color=blue)
 
-#### Github Stats
+### Github Stats
 
 ![Pramod's github stats](https://github-readme-stats.vercel.app/api?username=PramodSuthar&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark)
