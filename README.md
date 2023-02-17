@@ -2,7 +2,7 @@
 
 # Hey there, I'm Pramod <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hey">
 
-I'm Pramod Suthar, a Full Stack Web Developer at [Creator.co](https://creator.co/). I spend most of my time learning new stuff and playing video games.
+## I'm Pramod Suthar, a Full Stack Web Developer at [Creator.co](https://creator.co/). I spend most of my time learning new stuff and playing video games.
 
 ### :mailbox: Reach me out!
 
@@ -11,7 +11,7 @@ I'm Pramod Suthar, a Full Stack Web Developer at [Creator.co](https://creator.co
 <!-- TODO: Add last video link -->
 
 - :computer: I’m currently working at Creator.co
-- 🤔 I’m also looking for teammates in Valorant:facepunch: and Fifa⚽.
+- 🤔 Always looking for new teammates in Valorant:facepunch: and Fifa⚽.
 - 📫 How to reach me: pramodsuthar@mail.com.
 
 ### Top Technologies
@@ -35,7 +35,7 @@ I'm Pramod Suthar, a Full Stack Web Developer at [Creator.co](https://creator.co
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Developer Jokes, because why not?
+### Dev Jokes, cause why not?
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
