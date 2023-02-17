@@ -33,11 +33,11 @@
 
 ### Dev Jokes, cause why not?
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 
 ### Profile Visits
 
-<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=PramodSuthar.PramodSuthar&left_color=green&right_color=blue)
 
 ### Github Stats
 
