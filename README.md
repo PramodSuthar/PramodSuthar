@@ -4,10 +4,6 @@
 
 ## I'm Pramod Suthar, a Full Stack Web Developer at [Creator.co](https://creator.co/). I spend most of my time learning new stuff and playing video games.
 
-- :computer: I’m currently working at Creator.co
-- 🤔 Always looking for new teammates in Valorant:facepunch: and Fifa⚽.
-- 📫 How to reach me: pramodsuthar@mail.com.
-
 ### :mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@Prmd96-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Prmd96)](https://twitter.com/Prmd96) [![Linkedin Badge](https://img.shields.io/badge/-Pramod-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramodsuthar/) [![Mail Badge](https://img.shields.io/badge/-PramodSuthar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:pramodsuthar@mail.com)
