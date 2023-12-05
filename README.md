@@ -1,11 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono&size=38&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=90&lines=Welcome+to+my+GitHub+Profile)](https://github.com/PramodSuthar)
-
-# Hey there, I'm Pramod <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hey">
-
-## I'm Pramod Suthar, a Full Stack Web Developer at [Creator.co](https://creator.co/). I spend most of my time learning new stuff and playing video games.
-
-### :mailbox: Reach me out!
-
 [![Twitter Badge](https://img.shields.io/badge/-@Prmd96-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Prmd96)](https://twitter.com/Prmd96) [![Linkedin Badge](https://img.shields.io/badge/-Pramod-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramodsuthar/) [![Mail Badge](https://img.shields.io/badge/-PramodSuthar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:pramodsuthar@mail.com)
 
 ### Top Technologies
